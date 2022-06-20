@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.logo1 {
+}
+.logo {
+}
+.main1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  column-gap: 32px;
+}
+.button1 {
+}
+.button2 {
+}
+.button3 {
+}
+.button4 {
+}
+.button5 {
+  height: 40px;
+  left: 0%;
+  right: 0%;
+  top: 0px;
+
+  background: #222222;
+  border-radius: 4px;
+}
+.p5 {
+  color: aliceblue;
+}
